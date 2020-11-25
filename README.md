@@ -11,20 +11,20 @@ Ana:
 Implementou o código que permite coletar uma amostra aleatória da base de dados com a ajuda do Davi Reis.
 Gerou os gráficos/tabelas do cruzamento de cada feature com a target.
 Legenda das variaveis e dos valores das variaveis.
-Storytelling
-Analise critica
+Storytelling.
+Analise critica.
 
 Luana:
 
 Comentou as tabelas cruzadas, explorando a relação que cada feature poderia ter com a variável target.
 Escreveu a introdução.
-Referencias bibliograficas
-Titulos e legendas dos graficos
+Referencias bibliograficas.
+Titulos e legendas dos graficos.
 
 Pietro:
 
-Implementou o modelo random forest
-Implementou o modelo de regressao linear
-Texto de descricao dos dois modelos
-Preparou o dataframe para os modelos de predicao
-Analise critica
+Implementou o modelo random forest.
+Implementou o modelo de regressao linear.
+Texto de descricao dos dois modelos.
+Preparou o dataframe para os modelos de predicao.
+Analise critica.
